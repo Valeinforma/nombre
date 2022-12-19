@@ -1,0 +1,29 @@
+body{
+        
+        background-color: aqua;
+        
+        
+    }
+h1{
+    color: rgb(rgb(17, 0, 255));
+    text-align: center;
+    font-size: large;
+    border-radius: 60px;
+    padding: 20px;
+    border: double 20px rgb(rgb(247, 0, 0),);
+    background-color: crimson;
+}
+p{
+    color: black;
+}
+summary{
+    color: black;
+    font-size: large;
+    font-style: normal;
+}
+hr{
+   background-color: black;
+   background-size: 100px;
+   background-attachment: fixed;
+   
+}
